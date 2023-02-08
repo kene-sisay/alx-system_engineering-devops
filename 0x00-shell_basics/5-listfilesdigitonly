@@ -1,2 +1,2 @@
 0x00-shell_basics
-ls -F
+ls -al
