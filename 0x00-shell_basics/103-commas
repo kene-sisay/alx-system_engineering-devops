@@ -1,1 +1,2 @@
--e#!/bin/bash\nls -xamp
+#!/bin/bash
+ls -xamp
