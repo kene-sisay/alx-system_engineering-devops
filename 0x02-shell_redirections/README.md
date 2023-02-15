@@ -1,1 +1,1 @@
-0x02 shell redirectanand and filtrts readme file
+0x02. Shell, I/O Redirections and filters
